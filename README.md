@@ -1,0 +1,2 @@
+# ai_travel
+SingularitySocietyで検討するプロジェクト
