@@ -32,3 +32,19 @@
 
 * [Developer Guide](docs/developer_guide.md)
 * [Code of Conduct](CODE_OF_CONDUCT.md)
+
+## Running the CLI
+
+A simple command line interface is provided for experimenting with the MVP features.
+
+```
+python -m ai_travel.main
+```
+
+## Running Tests
+
+Use pytest with the repository root on `PYTHONPATH`:
+
+```
+PYTHONPATH=. pytest -q
+```
