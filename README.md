@@ -87,3 +87,32 @@ Use pytest with the repository root on `PYTHONPATH`:
 ```
 PYTHONPATH=. pytest -q
 ```
+
+## Mock API Server
+
+A simple Express server provides mock endpoints for categories and plan data.
+To start the server, run the following commands:
+
+```bash
+cd mock-server
+npm install
+npm start
+```
+
+The server listens on `http://localhost:4000` by default.
+
+## Frontend Development
+
+A minimal React + Vite project lives under `frontend/`. Tailwind CSS is
+configured for styling.
+
+To start the dev server run:
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+The app will open on `http://localhost:5173` and will use the mock API server
+running on port 4000.
