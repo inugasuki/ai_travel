@@ -25,3 +25,10 @@
 * 私はPM兼データサイエンティストとして全体統括、MVP要件検討、レコメンドアルゴリズム構築を担当
 * エンジニアの方にはチャットアプリ開発をお願いしたいと考えております。
 
+
+---
+
+## Project Resources
+
+* [Developer Guide](docs/developer_guide.md)
+* [Code of Conduct](CODE_OF_CONDUCT.md)
