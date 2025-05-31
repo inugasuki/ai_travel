@@ -1,0 +1,203 @@
+[
+  {
+    "id": "plan-001",
+    "title": "\u7bb1\u6839\u6e29\u6cc91\u6cca2\u65e5\u30ea\u30d5\u30ec\u30c3\u30b7\u30e5\u30d7\u30e9\u30f3",
+    "category": "onsen",
+    "thumbnailUrl": "/assets/images/plan_hakone_onsen.jpg",
+    "budgetRange": {
+      "min": 30000,
+      "max": 50000
+    },
+    "duration": "1\u6cca2\u65e5",
+    "persons": {
+      "adult": 2,
+      "child": 0
+    },
+    "availability": "available",
+    "rating": 4.5,
+    "reviewCount": 128,
+    "likeCount": 256,
+    "dislikeCount": 12
+  },
+  {
+    "id": "plan-002",
+    "title": "\u8349\u6d25\u6e29\u6cc92\u6cca3\u65e5\u30b0\u30eb\u30e1\u582a\u80fd\u30d7\u30e9\u30f3",
+    "category": "onsen",
+    "thumbnailUrl": "/assets/images/plan_kusatsu_onsen.jpg",
+    "budgetRange": {
+      "min": 45000,
+      "max": 70000
+    },
+    "duration": "2\u6cca3\u65e5",
+    "persons": {
+      "adult": 2,
+      "child": 0
+    },
+    "availability": "low",
+    "rating": 4.0,
+    "reviewCount": 87,
+    "likeCount": 190,
+    "dislikeCount": 25
+  },
+  {
+    "id": "plan-003",
+    "title": "\u77f3\u57a3\u5cf6\u30d3\u30fc\u30c11\u6cca2\u65e5\u30a2\u30af\u30c6\u30a3\u30d6\u30d7\u30e9\u30f3",
+    "category": "beach",
+    "thumbnailUrl": "/assets/images/plan_ishigaki_beach.jpg",
+    "budgetRange": {
+      "min": 50000,
+      "max": 80000
+    },
+    "duration": "1\u6cca2\u65e5",
+    "persons": {
+      "adult": 2,
+      "child": 0
+    },
+    "availability": "available",
+    "rating": 4.8,
+    "reviewCount": 200,
+    "likeCount": 340,
+    "dislikeCount": 8
+  },
+  {
+    "id": "plan-004",
+    "title": "\u6c96\u7e04\u672c\u5cf62\u6cca3\u65e5\u30d3\u30fc\u30c1\u30ea\u30be\u30fc\u30c8\u582a\u80fd\u30d7\u30e9\u30f3",
+    "category": "beach",
+    "thumbnailUrl": "/assets/images/plan_okinawa_beach.jpg",
+    "budgetRange": {
+      "min": 60000,
+      "max": 90000
+    },
+    "duration": "2\u6cca3\u65e5",
+    "persons": {
+      "adult": 2,
+      "child": 0
+    },
+    "availability": "sold_out",
+    "rating": 4.3,
+    "reviewCount": 150,
+    "likeCount": 220,
+    "dislikeCount": 14
+  },
+  {
+    "id": "plan-005",
+    "title": "\u6771\u4eac2\u6cca3\u65e5\u30b7\u30c6\u30a3\u30b0\u30eb\u30e1\u65c5\u30d7\u30e9\u30f3",
+    "category": "city",
+    "thumbnailUrl": "/assets/images/plan_tokyo_city.jpg",
+    "budgetRange": {
+      "min": 40000,
+      "max": 70000
+    },
+    "duration": "2\u6cca3\u65e5",
+    "persons": {
+      "adult": 2,
+      "child": 0
+    },
+    "availability": "available",
+    "rating": 4.2,
+    "reviewCount": 98,
+    "likeCount": 180,
+    "dislikeCount": 20
+  },
+  {
+    "id": "plan-006",
+    "title": "\u4eac\u90fd1\u6cca2\u65e5\u548c\u98a8\u5bfa\u793e\u5de1\u308a\u30d7\u30e9\u30f3",
+    "category": "city",
+    "thumbnailUrl": "/assets/images/plan_kyoto_city.jpg",
+    "budgetRange": {
+      "min": 35000,
+      "max": 60000
+    },
+    "duration": "1\u6cca2\u65e5",
+    "persons": {
+      "adult": 2,
+      "child": 0
+    },
+    "availability": "low",
+    "rating": 4.7,
+    "reviewCount": 110,
+    "likeCount": 240,
+    "dislikeCount": 9
+  },
+  {
+    "id": "plan-007",
+    "title": "\u5bcc\u58eb\u5c71\u30c8\u30ec\u30c3\u30ad\u30f3\u30b01\u6cca2\u65e5\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc\u30d7\u30e9\u30f3",
+    "category": "nature",
+    "thumbnailUrl": "/assets/images/plan_fuji_nature.jpg",
+    "budgetRange": {
+      "min": 20000,
+      "max": 40000
+    },
+    "duration": "1\u6cca2\u65e5",
+    "persons": {
+      "adult": 2,
+      "child": 0
+    },
+    "availability": "available",
+    "rating": 4.6,
+    "reviewCount": 75,
+    "likeCount": 120,
+    "dislikeCount": 5
+  },
+  {
+    "id": "plan-008",
+    "title": "\u5c4b\u4e45\u5cf62\u6cca3\u65e5\u30b8\u30e3\u30f3\u30b0\u30eb\u30c8\u30ec\u30c3\u30ad\u30f3\u30b0\u30d7\u30e9\u30f3",
+    "category": "nature",
+    "thumbnailUrl": "/assets/images/plan_yakushima_nature.jpg",
+    "budgetRange": {
+      "min": 55000,
+      "max": 80000
+    },
+    "duration": "2\u6cca3\u65e5",
+    "persons": {
+      "adult": 2,
+      "child": 0
+    },
+    "availability": "available",
+    "rating": 4.9,
+    "reviewCount": 130,
+    "likeCount": 310,
+    "dislikeCount": 7
+  },
+  {
+    "id": "plan-009",
+    "title": "\u91d1\u6ca21\u6cca2\u65e5\u4f1d\u7d71\u5de5\u82b8\u3068\u30b0\u30eb\u30e1\u65c5\u30d7\u30e9\u30f3",
+    "category": "gourmet",
+    "thumbnailUrl": "/assets/images/plan_kanazawa_gourmet.jpg",
+    "budgetRange": {
+      "min": 30000,
+      "max": 50000
+    },
+    "duration": "1\u6cca2\u65e5",
+    "persons": {
+      "adult": 2,
+      "child": 0
+    },
+    "availability": "low",
+    "rating": 4.4,
+    "reviewCount": 92,
+    "likeCount": 160,
+    "dislikeCount": 11
+  },
+  {
+    "id": "plan-010",
+    "title": "\u798f\u5ca12\u6cca3\u65e5\u30e9\u30fc\u30e1\u30f3\uff06\u3082\u3064\u934b\u30b0\u30eb\u30e1\u6e80\u55ab\u30d7\u30e9\u30f3",
+    "category": "gourmet",
+    "thumbnailUrl": "/assets/images/plan_fukuoka_gourmet.jpg",
+    "budgetRange": {
+      "min": 35000,
+      "max": 60000
+    },
+    "duration": "2\u6cca3\u65e5",
+    "persons": {
+      "adult": 2,
+      "child": 0
+    },
+    "availability": "available",
+    "rating": 4.3,
+    "reviewCount": 105,
+    "likeCount": 175,
+    "dislikeCount": 13
+  }
+]
+
