@@ -1,0 +1,32 @@
+[
+  {
+    "id": "onsen",
+    "label": "温泉",
+    "imageUrl": "/assets/images/onsen.jpg",
+    "description": "秘湯でのんびり"
+  },
+  {
+    "id": "beach",
+    "label": "ビーチ",
+    "imageUrl": "/assets/images/beach.jpg",
+    "description": "白砂ビーチでリラックス"
+  },
+  {
+    "id": "city",
+    "label": "都市観光",
+    "imageUrl": "/assets/images/city.jpg",
+    "description": "街歩きとグルメを満喫"
+  },
+  {
+    "id": "nature",
+    "label": "自然トレッキング",
+    "imageUrl": "/assets/images/nature.jpg",
+    "description": "雄大な自然の中を歩こう"
+  },
+  {
+    "id": "gourmet",
+    "label": "グルメ旅",
+    "imageUrl": "/assets/images/gourmet.jpg",
+    "description": "地元名物を食べ尽くす"
+  }
+]

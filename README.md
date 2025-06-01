@@ -87,3 +87,37 @@ Use pytest with the repository root on `PYTHONPATH`:
 ```
 PYTHONPATH=. pytest -q
 ```
+
+## Mock API Server
+
+A simple Express server provides mock endpoints for categories and plan data.
+To start the server, run the following commands:
+
+```bash
+cd mock-server
+npm install
+npm start
+```
+
+The server listens on `http://localhost:4000` by default.
+
+### Available endpoints
+
+- `GET /api/categories` - return the list of destination categories.
+- `POST /api/plans/quick-suggest` - return plan cards filtered by the
+  parameters below.
+- `POST /api/plans/:planId/interact` - register `like`, `dislike` or `favorite`.
+
+`/api/plans/quick-suggest` expects a JSON body:
+
+```json
+{
+  "category": "onsen",
+  "budgetMin": 30000,
+  "budgetMax": 60000,
+  "duration": "1泊2日",
+  "adultCount": 2,
+  "childCount": 0,
+  "styles": ["のんびり"]
+}
+```
