@@ -1,0 +1,23 @@
+[
+  {
+    "id": "plan-001",
+    "imageUrls": ["/assets/images/plan_hakone_onsen.jpg"],
+    "catchphrase": "ふわりと湯気に包まれ、心も体もリフレッシュ",
+    "description": "箱根の自然に抱かれた宿で、温泉と会席料理を堪能する1泊2日の癒しプラン。",
+    "styles": ["のんびり", "リラックス"]
+  },
+  {
+    "id": "plan-003",
+    "imageUrls": ["/assets/images/plan_ishigaki_beach.jpg"],
+    "catchphrase": "エメラルドブルーの波を駆け抜ける冒険が待っている",
+    "description": "石垣島のビーチでマリンスポーツを楽しむアクティブプラン。",
+    "styles": ["アクティブ", "ビーチ"]
+  },
+  {
+    "id": "plan-008",
+    "imageUrls": ["/assets/images/plan_yakushima_nature.jpg"],
+    "catchphrase": "永遠の森が呼んでいる…屋久島で神秘の一歩を",
+    "description": "世界遺産の森をトレッキングしながら大自然を満喫する2泊3日の旅。",
+    "styles": ["自然", "アドベンチャー"]
+  }
+]
