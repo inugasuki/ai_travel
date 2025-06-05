@@ -26,6 +26,22 @@ export interface PlanCardData {
   dislikeCount: number;
 }
 
+export interface PlanDetail extends PlanCardData {
+  catchphrase: string;
+  description: string;
+  imageUrls: string[];
+  videoUrl?: string;
+  styles: string[];
+}
+
+export interface SliderItem {
+  planId: string;
+  title: string;
+  catchphrase: string;
+  imageUrl: string;
+  videoUrl?: string;
+}
+
 export interface FilterParams {
   category: string;
   budgetMin: number;

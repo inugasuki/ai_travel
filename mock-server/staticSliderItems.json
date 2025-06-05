@@ -1,0 +1,23 @@
+[
+  {
+    "planId": "plan-008",
+    "title": "屋久島2泊3日ジャングルトレッキングプラン",
+    "catchphrase": "永遠の森が呼んでいる…屋久島で神秘の一歩を",
+    "imageUrl": "/assets/images/plan_yakushima_nature.jpg",
+    "videoUrl": null
+  },
+  {
+    "planId": "plan-003",
+    "title": "石垣島ビーチ1泊2日アクティブプラン",
+    "catchphrase": "エメラルドブルーの波を駆け抜ける冒険が待っている",
+    "imageUrl": "/assets/images/plan_ishigaki_beach.jpg",
+    "videoUrl": null
+  },
+  {
+    "planId": "plan-001",
+    "title": "箱根温泉1泊2日リフレッシュプラン",
+    "catchphrase": "ふわりと湯気に包まれ、心をほどく休日",
+    "imageUrl": "/assets/images/plan_hakone_onsen.jpg",
+    "videoUrl": null
+  }
+]
