@@ -15,3 +15,10 @@ def test_suggest_plans_fallback():
     assert len(plans) > 0
     for p in plans:
         assert p["tag"] == "温泉"
+
+
+def test_suggest_plans_days_and_budget():
+    plans = suggest_plans("ビーチ", "アクティブ", days=3, budget="7-10万円")
+    assert len(plans) > 0
+    # The Okinawa plan is the only one fully matching
+    assert plans[0]["destination"] == "沖縄"
